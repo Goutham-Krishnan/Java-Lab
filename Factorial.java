@@ -6,7 +6,8 @@ public class Factorial {
 		System.out.println("Enter the number");
 		int n=scan.nextInt();
 		Factorial obj=new Factorial();
-		System.out.println("Factorial of "+n+" is "+obj.fact(n));
+		for(int i=0;i<=n;i++)
+			System.out.println(i+"!= "+obj.fact(i));
 		scan.close();
 		
 	}
@@ -18,5 +19,4 @@ public class Factorial {
 		
 		return n*fact(n-1);
 	}
-
 }
