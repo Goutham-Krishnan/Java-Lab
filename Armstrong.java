@@ -24,3 +24,16 @@ public class Armstrong {
 		return sum;
 	}
 }
+
+/*
+	Enter the number	
+	159
+	159 is not armstrong
+*/
+
+/*
+ 	Enter the number
+	370
+	370 is armstrong
+*/
+	
