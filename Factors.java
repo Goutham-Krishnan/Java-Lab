@@ -1,4 +1,3 @@
-package jdk;
 import java.io.*;
 import java.util.*;
 public class Factors {
@@ -24,3 +23,14 @@ public class Factors {
 	}
 
 }
+
+/*
+	Enter the number
+	45
+	Factors of 45 are:
+	1
+	3
+	5
+	9
+	15
+*/
