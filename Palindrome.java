@@ -20,3 +20,9 @@ public class Palindrome {
 	}
 
 }
+
+/*
+	Enter the number
+	34543
+	34543 is palindrome
+*/
