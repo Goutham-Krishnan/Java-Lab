@@ -20,3 +20,9 @@ public class PrimeOrNot {
 	}
 
 }
+
+/*
+	Enter the number
+	77
+	77 is not prime
+*/
