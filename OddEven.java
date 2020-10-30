@@ -9,6 +9,14 @@ public class OddEven {
 			System.out.println(n+" is even");
 		else
 			System.out.println(n+" is odd");
+		
+		scan.close();
 	}
 
 }
+
+/*
+	Enter the number
+	33
+	33 is odd
+*/
