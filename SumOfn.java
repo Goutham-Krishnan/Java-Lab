@@ -15,3 +15,9 @@ public class SumOfn {
 	}
 
 }
+
+/*
+	Enter the number
+	13
+	Sum of numbers upto 13 is 91
+*/
